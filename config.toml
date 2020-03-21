@@ -1,0 +1,137 @@
+baseurl = "/"
+title = "Felipe Rocha"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Felipe Rocha"
+    keywords = "blog,developer,personal"
+    avatarurl = "images/avatar.jpg"
+    #gravatar = "john.doe@example.com"
+    footercontent = "rocha.felipeferreira@gmail.com"
+
+    dateformat = "January 2, 2006"
+
+    hideCredits = true
+    hideCopyright = true
+    since = 2020
+
+    # Git Commit in Footer, uncomment the line below to enable it.
+    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "light"
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Custom CSS
+    custom_css = []
+
+    # Custom JS
+    custom_js = []
+
+# If you want to use fathom(https://usefathom.com) for analytics, add this section
+[params.fathomAnalytics]
+    siteID = "ABCDE"
+    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+    serverURL = "analytics.example.com"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/rocha-felipeferreira"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 3
+    url = "https://twitter.com/rocha_felipef"
+  [[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/rochafelipeferreira/"
+[[params.social]]
+    name = "Lattes"
+    icon = "fas fa-file-alt"
+    weight = 4
+    url = "http://lattes.cnpq.br/5112574032057435"
+[[params.social]]
+    name = "Orcid"
+    icon = "fab fa-orcid"
+    weight = 4
+    url = "https://orcid.org/0000-0002-9978-5703"
+    
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "Portfolio"
+            weight = 1
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Projects"
+            weight = 3
+            url = "projects/"
+
+
+    [languages.pt-br]
+        languagename = "Português"
+        title = "Felipe Rocha"
+
+        [languages.pt-br.params]
+            author = "Felipe Rocha"
+            keywords = "blog,desenvolvedor,pessoal"
+            footercontent = "rocha.felipeferreira@gmail.com"
+
+        [languages.pt-br.menu]
+
+            [[languages.pt-br.menu.main]]
+            name = "Portfólio"
+            weight = 1
+            url = "about/"
+
+            [[languages.pt-br.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
+
+            [[languages.pt-br.menu.main]]
+            name = "Projetos"
+            weight = 3
+            url = "projects/"
