@@ -95,7 +95,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "Portfolio"
+            name = "Academic Portfolio"
             weight = 1
             url = "about/"
 
@@ -122,7 +122,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.pt-br.menu]
 
             [[languages.pt-br.menu.main]]
-            name = "Portfólio"
+            name = "Portfólio Acadêmico"
             weight = 1
             url = "about/"
 

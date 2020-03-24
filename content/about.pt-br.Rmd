@@ -1,12 +1,14 @@
 ---
 title: "Academic Portfolio"
 output:
-  blogdown::html_page:
+  html_document:
     toc: true
-
+    theme: united
+    
 ---
 
-## Statistical Info 
+
+## Resumo Estatístico
 
 ```{r lattes, echo=FALSE, message=FALSE, warning=FALSE}
 
@@ -14,29 +16,11 @@ output:
 ```
 
 
-## Education:
+## Educação
 
-- **March 2017 — Present**
+## Produções 
 
-    - PhD Candidate in Political Science, Federal University of Pernambuco — UFPE (Recife, Brazil)
-
-    - Comparing Diplomatic Agendas: Thematic Emphases of Brazilian Presidents and Chancellors (1995 - 2016) [Provisional title of Thesis]
-
-- **March 2015 — February 2017**
-
-    - M.A. in Political Science, Federal University of Pernambuco — UFPE (Recife, Brazil)
-
-    - O Uso dos Conceitos de América Latina e de América do Sul pela Diplomacia Brasileira de 1995 a 2014 [The Use of the Concepts of Latin America and South America by Brazilian Diplomacy from 1995 to 2014]
-
-- **February 2011 — December 2014**
-
-     - B.A. in International Relations, Federal University of Sergipe — UFS (São Cristóvão - Brazil)
-
-
-
-## Academic Productions:
-
-### Journal Articles
+### Artigos publicados em Periódicos
 
 #### - 2018 
 
@@ -55,7 +39,7 @@ output:
 BARNABÉ, I. R. ; ROCHA, F. F. O. . O Projeto Café Debate e a Internacionalização do Estado de Sergipe. Revista Interdisciplinar de Pesquisa e Inovação, v. 2, p. 1-8, 2016.
 
 
-### Book Reviews
+### Resenhas de Livros
 
 #### - 2019
 
@@ -66,7 +50,7 @@ BARNABÉ, I. R. ; ROCHA, F. F. O. . O Projeto Café Debate e a Internacionaliza�
 [ROCHA, F. F. O.. Resenha 'Aspirational Power: Brazil on the Long Road to Global Influence'. João Pessoa: Revista de Estudos Internacionais (REI), Vol.9 (2), 2018 (Resenha).](http://www.revistadeestudosinternacionais.com/uepb/index.php/rei/article/view/389/pdf)
 
 
-### Conference Presentations
+### Apresentações em Eventos Científicos
 
 #### - 2019
 
