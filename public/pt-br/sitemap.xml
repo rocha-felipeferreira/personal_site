@@ -45,16 +45,6 @@
   <url>
     <loc>/pt-br/tags/hugo/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/tags/hugo/"
-                />
   </url>
   
   <url>
@@ -93,20 +83,6 @@
   </url>
   
   <url>
-    <loc>/pt-br/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/about/"
-                />
-  </url>
-  
-  <url>
     <loc>/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -117,6 +93,20 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/pt-br/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt-br/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/about/"
                 />
   </url>
   

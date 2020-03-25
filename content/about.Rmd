@@ -1,18 +1,10 @@
 ---
-title: "Academic Portfolio"
+title: "Academic Portfolio + Replication Files"
 output:
   blogdown::html_page:
     toc: true
 
 ---
-
-## Statistical Info 
-
-```{r lattes, echo=FALSE, message=FALSE, warning=FALSE}
-
-
-```
-
 
 ## Education:
 
@@ -20,19 +12,17 @@ output:
 
     - PhD Candidate in Political Science, Federal University of Pernambuco — UFPE (Recife, Brazil)
 
-    - Comparing Diplomatic Agendas: Thematic Emphases of Brazilian Presidents and Chancellors (1995 - 2016) [Provisional title of Thesis]
+    - Comparing Diplomatic Agendas: Thematic Emphases of Brazilian Presidents and Chancellors (1995 - 2019 [Provisional title of Thesis]
 
 - **March 2015 — February 2017**
 
     - M.A. in Political Science, Federal University of Pernambuco — UFPE (Recife, Brazil)
 
-    - O Uso dos Conceitos de América Latina e de América do Sul pela Diplomacia Brasileira de 1995 a 2014 [The Use of the Concepts of Latin America and South America by Brazilian Diplomacy from 1995 to 2014]
+    - [O Uso dos Conceitos de América Latina e de América do Sul pela Diplomacia Brasileira de 1995 a 2014 {The Use of the Concepts of Latin America and South America by Brazilian Diplomacy from 1995 to 2014}](https://repositorio.ufpe.br/handle/123456789/23655)
 
 - **February 2011 — December 2014**
 
      - B.A. in International Relations, Federal University of Sergipe — UFS (São Cristóvão - Brazil)
-
-
 
 ## Academic Productions:
 
@@ -41,15 +31,23 @@ output:
 #### - 2018 
 
 [ROCHA, Felipe Ferreira de Oliveira; ALBUQUERQUE, Rodrigo ; MEDEIROS, M. A. . Do Concepts Matter? Latin America and South America in the Discourse of Brazilian Foreign Policymakers. BRAZILIAN POLITICAL SCIENCE REVIEW, v. 12, p. 1-24, 2018.](https://doi.org/10.1590/1981-3821201800030006)
+  
+   - [Files for reproducibility of the manuscript](https://doi.org/10.7910/DVN/LYNZVO)
+
 
 [ROCHA, Felipe Ferreira de Oliveira. O exercício da liderança regional: um balanço preliminar a partir das opiniões de brasileiros e mexicanos. Conjuntura Austral. Revista do Núcleo Brasileiro de Estratégia e Relações Internacionais da UFRGS, v. 9, p. 20-36, 2018.](https://doi.org/10.22456/2178-8839.83922)
+
 
 #### - 2017
 
 [ROCHA, F. F. O.. A academia perante a diplomacia no Brasil: o uso dos conceitos de América Latina e de América do Sul de 1985 a 2015. CONJUNTURA INTERNACIONAL (BELO HORIZONTE. ONLINE), v. 13, p. 126-139, 2017.](https://doi.org/10.5752/P.1809-6182.2016v13n3p126)
 
+ - [Files for reproducibility of the manuscript](https://doi.org/10.7910/DVN/ZVPJSP)
+
 [ROCHA, Felipe Ferreira de Oliveira. Temas de Relações Internacionais nos discursos de posse de presidentes e de chanceleres brasileiros (1995-2017). Carta Internacional, v. 12, p. 153-174, 2017.](https://doi.org/10.21530/ci.v12n3.2017.707)
 
+   - [Files for reproducibility of the manuscript](https://doi.org/10.7910/DVN/MQCASI)
+   
 #### - 2016
 
 BARNABÉ, I. R. ; ROCHA, F. F. O. . O Projeto Café Debate e a Internacionalização do Estado de Sergipe. Revista Interdisciplinar de Pesquisa e Inovação, v. 2, p. 1-8, 2016.
@@ -81,7 +79,6 @@ BARNABÉ, I. R. ; ROCHA, F. F. O. . O Projeto Café Debate e a Internacionaliza�
 #### - 2017
 
 ROCHA, Felipe Ferreira de Oliveira. Analisar a Política Externa Brasileira através do Conceito de Saliência Temática: Por que e Como?. In: IV Congresso Internacional de Pernambuco, 2017, Recife. O lugar dos BRICS nas relações internacionais contemporâneas: dilemas, posicionamentos e perspectivas: Anais do IV Congresso Internacional de Pernambuco.. Recife. p. 69-79.
-
 
 #### - 2016 
 
