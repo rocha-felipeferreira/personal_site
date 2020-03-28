@@ -7,14 +7,6 @@ output:
     
 ---
 
-```{r ddd}
-
-iris
-summary(iris$Sepal.Length)
-
-```
-
-
 
 ## Education:
   
