@@ -8,10 +8,12 @@ editor_options:
   chunk_output_type: console
 ---
 
+## Statistical Summary
+
 ```{r tibble, message=FALSE, warning=FALSE, include=FALSE}
 
 library(tidyverse)
-library(htmlwidgets)
+library(plotly)
 
 descriptive_summary <- tibble(
   year = c(2016, 2017, 2018, 2019),
@@ -36,6 +38,8 @@ descriptive_chart <- ggplot(descriptive_summary, aes(x = year, y = valores)) +
         panel.background = element_rect(fill = "white", colour = "black"), 
         panel.grid.major = element_line(colour = "gray80"), 
         strip.background = element_rect(fill = "white", colour = "black"), strip.text = element_text(size = rel(1.5), colour = "black", face = "bold"))
+
+ggplotly(descriptive_chart)
 
 ```
 
