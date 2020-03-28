@@ -7,7 +7,7 @@ output:
 ---
 
 
-## Education:
+## Education
   
 - **March 2017 — Present**
 
@@ -25,7 +25,7 @@ output:
 
      - B.A. in International Relations, Federal University of Sergipe — UFS (São Cristóvão - Brazil)
 
-## Academic Productions:
+## Academic Productions
 
 ### Journal Articles
 

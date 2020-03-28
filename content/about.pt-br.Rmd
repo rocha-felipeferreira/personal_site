@@ -1,9 +1,8 @@
 ---
-title: "Portfólio Acadêmico + Arquivos de Replicação"
+title: "CV & Replicação"
 output:
-  html_document:
+  blogdown::html_page:
     toc: true
-    theme: united
     
 ---
 
