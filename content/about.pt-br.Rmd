@@ -1,5 +1,5 @@
 ---
-title: "Portfólio Acadêmico + Arquivos para Replicação"
+title: "Portfólio Acadêmico + Arquivos de Replicação"
 output:
   html_document:
     toc: true
