@@ -1,11 +1,8 @@
 ---
-title: "CV + Replication"
+title: "CV & Replication"
 output:
-  html_document:
+  blogdown::html_page:
     toc: true
-    toc_float: true
-    smart: true
-    theme: united
     
 ---
 
