@@ -19,7 +19,7 @@ output:
 
     - Mestrado em Ciência Política, Universidade Federal de Pernambuco — UFPE (Recife, Brasil)
 
-    - O Uso dos Conceitos de América Latina e de América do Sul pela Diplomacia Brasileira de 1995 a 2014 
+    - [O Uso dos Conceitos de América Latina e de América do Sul pela Diplomacia Brasileira de 1995 a 2014](https://repositorio.ufpe.br/handle/123456789/23655)
 
 - **Fevereiro de 2011 — Dezembro de 2014**
 
