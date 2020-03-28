@@ -1,8 +1,6 @@
 ---
 title: "Academic Portfolio + Replication Files"
-output:
-  html_document:
-    toc: true
+output: html_document
 
 ---
 
