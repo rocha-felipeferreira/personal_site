@@ -7,6 +7,15 @@ output:
     
 ---
 
+```{r}
+
+iris
+summary(iris$Sepal.Length)
+
+```
+
+
+
 ## Education:
   
 - **March 2017 — Present**
