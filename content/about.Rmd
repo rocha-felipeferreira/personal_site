@@ -8,42 +8,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Statistical Summary
-
-```{r tibble, message=FALSE, warning=FALSE, include=FALSE}
-
-library(tidyverse)
-library(plotly)
-
-descriptive_summary <- tibble(
-  year = c(2016, 2017, 2018, 2019),
-  journal_papers = c(1, 2, 2, 0),
-  book_reviews = c(0, 0, 0, 1), 
-  conference_presentations = c(1, 1, 1, 2)
-)
-
-descriptive_summary <- pivot_longer(descriptive_summary, cols = c(journal_papers, book_reviews, conference_presentations), names_to = "type", values_to = "valores", )
-
-```
-
-```{r graph, echo=FALSE, message=FALSE, warning=FALSE}
-
-descriptive_chart <- ggplot(descriptive_summary, aes(x = year, y = valores)) +
-  geom_area(alpha = .3, fill = "darkblue") +  
-  geom_line() + geom_point(size = 2, colour = "darkblue") +
- facet_wrap(~type, nrow = 3) +
-  scale_y_continuous(breaks = c(0, 1, 2)) + 
-  theme(axis.title = element_blank(), 
-        axis.text = element_text(size = rel(1.4), colour = "black"), 
-        panel.background = element_rect(fill = "white", colour = "black"), 
-        panel.grid.major = element_line(colour = "gray80"), 
-        strip.background = element_rect(fill = "white", colour = "black"), strip.text = element_text(size = rel(1.5), colour = "black", face = "bold"))
-
-ggplotly(descriptive_chart)
-
-```
-
-
 ## Education
   
 - **March 2017 — Present**
