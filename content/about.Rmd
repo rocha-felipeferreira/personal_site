@@ -8,6 +8,11 @@ editor_options:
   chunk_output_type: console
 ---
 
+## CV (Printed Version)
+
+Please, [click here](https://github.com/rocha-felipeferreira/personal_site/blob/master/public/CV.pdf) to access the PDF version of my CV
+
+
 ## Education
    
 - **March 2017 — Present**
