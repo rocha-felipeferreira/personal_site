@@ -10,10 +10,6 @@ paginate = 20
 canonifyurls = true
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
-[blackfriday]
-  plainIDAnchors = true
-  hrefTargetBlank = true
   
 pygmentsstyle = "b2"
 pygmentscodefences = true
