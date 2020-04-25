@@ -11,6 +11,8 @@ canonifyurls = true
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+[blackfriday] hrefTargetBlank = true
+
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -66,7 +68,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/rocha-felipeferreira"{target="_blank"}
+    url = "https://github.com/rocha-felipeferreira"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
