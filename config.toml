@@ -11,8 +11,10 @@ canonifyurls = true
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[blackfriday] hrefTargetBlank = true
-
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+  
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
