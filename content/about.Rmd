@@ -39,19 +39,22 @@ Please, [click here](https://github.com/rocha-felipeferreira/personal_site/blob/
 
 [ROCHA, Felipe Ferreira de Oliveira; ALBUQUERQUE, Rodrigo ; MEDEIROS, M. A. . Do Concepts Matter? Latin America and South America in the Discourse of Brazilian Foreign Policymakers. BRAZILIAN POLITICAL SCIENCE REVIEW, v. 12, p. 1-24, 2018.](https://doi.org/10.1590/1981-3821201800030006)
   
-   - [Files for reproducibility of the manuscript](https://doi.org/10.7910/DVN/LYNZVO)
+   - [Files for reproducibility](https://doi.org/10.7910/DVN/LYNZVO)
 
 [ROCHA, Felipe Ferreira de Oliveira. O exercício da liderança regional: um balanço preliminar a partir das opiniões de brasileiros e mexicanos. Conjuntura Austral. Revista do Núcleo Brasileiro de Estratégia e Relações Internacionais da UFRGS, v. 9, p. 20-36, 2018.](https://doi.org/10.22456/2178-8839.83922)
+
+   - [Files for reproducibility](https://github.com/rocha-felipeferreira/paper-lider-reg-brasil-mex)
+
 
 #### - 2017
 
 [ROCHA, F. F. O.. A academia perante a diplomacia no Brasil: o uso dos conceitos de América Latina e de América do Sul de 1985 a 2015. CONJUNTURA INTERNACIONAL (BELO HORIZONTE. ONLINE), v. 13, p. 126-139, 2017.](https://doi.org/10.5752/P.1809-6182.2016v13n3p126)
 
- - [Files for reproducibility of the manuscript](https://doi.org/10.7910/DVN/ZVPJSP)
+ - [Files for reproducibility](https://doi.org/10.7910/DVN/ZVPJSP)
 
 [ROCHA, Felipe Ferreira de Oliveira. Temas de Relações Internacionais nos discursos de posse de presidentes e de chanceleres brasileiros (1995-2017). Carta Internacional, v. 12, p. 153-174, 2017.](https://doi.org/10.21530/ci.v12n3.2017.707)
 
-   - [Files for reproducibility of the manuscript](https://doi.org/10.7910/DVN/MQCASI)
+   - [Files for reproducibility](https://doi.org/10.7910/DVN/MQCASI)
    
 #### - 2016
 
