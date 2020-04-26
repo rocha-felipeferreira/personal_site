@@ -82,6 +82,9 @@ BARNABÉ, I. R. ; ROCHA, F. F. O. . O Projeto Café Debate e a Internacionaliza�
 
 [ROCHA, Felipe Ferreira de Oliveira. O Regionalismo Americano nos Discursos de FHC e de Lula. In: 42º Encontro Anual da Anpocs, 2018, Caxambú. 42º Encontro Anual da Anpocs - GT27: Relações Internacionais da América Latina. Caxambú, 2018. v. 42.](https://www.anpocs.com/index.php/encontros/papers/42-encontro-anual-da-anpocs/gt-31/gt27-16/11346-o-regionalismo-americano-nos-discursos-de-fhc-e-de-lula/file)
 
+   - [Files for reproducibility](https://github.com/rocha-felipeferreira/conference_american_reg_fhc_lula)
+
+
 #### - 2017
 
 ROCHA, Felipe Ferreira de Oliveira. Analisar a Política Externa Brasileira através do Conceito de Saliência Temática: Por que e Como?. In: IV Congresso Internacional de Pernambuco, 2017, Recife. O lugar dos BRICS nas relações internacionais contemporâneas: dilemas, posicionamentos e perspectivas: Anais do IV Congresso Internacional de Pernambuco. Recife. p. 69-79.
