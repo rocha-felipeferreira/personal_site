@@ -17,6 +17,11 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
 
+
+[blackfriday]
+  hrefTargetBlank = true
+  plainIDAnchors = true
+  
 [params]
     author = "Felipe Rocha"
     keywords = "blog,developer,personal"
