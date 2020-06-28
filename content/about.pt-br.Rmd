@@ -8,7 +8,7 @@ output:
 
 ## CV (Versão para Impressão)
 
-Por favor, [clique aqui](https://github.com/rocha-felipeferreira/personal_site/blob/master/public/CV_PT.pdf) para acessar a versão em PDF de meu CV. 
+[Clique aqui](https://github.com/rocha-felipeferreira/personal_site/blob/master/public/CV_PT.pdf) para acessar a versão em PDF de meu CV. 
 
 ## Educação
 

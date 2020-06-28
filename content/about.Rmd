@@ -10,7 +10,7 @@ editor_options:
 
 ## CV (Printable Version)
 
-Please, [click here](https://github.com/rocha-felipeferreira/personal_site/blob/master/public/CV.pdf) to access the PDF version of my CV
+[Click here](https://github.com/rocha-felipeferreira/personal_site/blob/master/public/CV.pdf) to access the PDF version of my CV
 
 
 ## Education
