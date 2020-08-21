@@ -32,8 +32,9 @@ output:
 
 ### Artigos publicados em Periódicos
 
-#### - 2018 
-
+<details closed>
+<summary>2018</summary>
+<br>
 [ROCHA, Felipe Ferreira de Oliveira; ALBUQUERQUE, Rodrigo ; MEDEIROS, M. A. . Do Concepts Matter? Latin America and South America in the Discourse of Brazilian Foreign Policymakers. BRAZILIAN POLITICAL SCIENCE REVIEW, v. 12, p. 1-24, 2018.](https://doi.org/10.1590/1981-3821201800030006){target="_blank"}
 
   - [Arquivos para replicação](https://doi.org/10.7910/DVN/LYNZVO){target="_blank"}
@@ -41,10 +42,11 @@ output:
 [ROCHA, Felipe Ferreira de Oliveira. O exercício da liderança regional: um balanço preliminar a partir das opiniões de brasileiros e mexicanos. Conjuntura Austral. Revista do Núcleo Brasileiro de Estratégia e Relações Internacionais da UFRGS, v. 9, p. 20-36, 2018.](https://doi.org/10.22456/2178-8839.83922){target="_blank"}
 
    - [Arquivos para replicação](https://github.com/rocha-felipeferreira/paper-lider-reg-brasil-mex){target="_blank"}
+</details>
 
-
-#### - 2017
-
+<details closed>
+<summary>2017</summary>
+<br>
 [ROCHA, F. F. O.. A academia perante a diplomacia no Brasil: o uso dos conceitos de América Latina e de América do Sul de 1985 a 2015. CONJUNTURA INTERNACIONAL (BELO HORIZONTE. ONLINE), v. 13, p. 126-139, 2017.](https://doi.org/10.5752/P.1809-6182.2016v13n3p126){target="_blank"}
 
  - [Arquivos para replicação](https://doi.org/10.7910/DVN/ZVPJSP){target="_blank"}
@@ -52,7 +54,9 @@ output:
 [ROCHA, Felipe Ferreira de Oliveira. Temas de Relações Internacionais nos discursos de posse de presidentes e de chanceleres brasileiros (1995-2017). Carta Internacional, v. 12, p. 153-174, 2017.](https://doi.org/10.21530/ci.v12n3.2017.707){target="_blank"}
 
   - [Arquivos para replicação](https://doi.org/10.7910/DVN/MQCASI){target="_blank"}
-  
+</details>
+
+
 <details open>
 <summary>2016</summary>
 <br>
@@ -67,7 +71,7 @@ BARNABÉ, I. R. ; ROCHA, F. F. O. . O Projeto Café Debate e a Internacionaliza�
 [ROCHA, F. F. O.. Política Externa e Participação Social: Trajetórias e perspectivas. Belo Horizonte: Conjuntura Internacional, Vol. 16 (2), 2019 (Resenha).](http://periodicos.pucminas.br/index.php/conjuntura/article/view/20377/16390){target="_blank"}
 </details>
 
-
+<br>
 <details closed>
 <summary>2018</summary>
 <br>
