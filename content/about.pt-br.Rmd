@@ -30,7 +30,7 @@ output:
 
 ## Produções 
 
-### Artigos publicados em Periódicos
+### Artigos publicados em Periódicos:
 
 <details closed>
 <summary>2018</summary>
@@ -71,7 +71,6 @@ BARNABÉ, I. R. ; ROCHA, F. F. O. . O Projeto Café Debate e a Internacionaliza�
 [ROCHA, F. F. O.. Política Externa e Participação Social: Trajetórias e perspectivas. Belo Horizonte: Conjuntura Internacional, Vol. 16 (2), 2019 (Resenha).](http://periodicos.pucminas.br/index.php/conjuntura/article/view/20377/16390){target="_blank"}
 </details>
 
-<br>
 <details closed>
 <summary>2018</summary>
 <br>
