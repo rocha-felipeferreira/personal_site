@@ -53,46 +53,55 @@ output:
 
   - [Arquivos para replicação](https://doi.org/10.7910/DVN/MQCASI){target="_blank"}
   
-#### - 2016
-
+<details open>
+<summary>2016</summary>
+<br>
 BARNABÉ, I. R. ; ROCHA, F. F. O. . O Projeto Café Debate e a Internacionalização do Estado de Sergipe. Revista Interdisciplinar de Pesquisa e Inovação, v. 2, p. 1-8, 2016.
+</details>
 
+### Resenhas de Livros: 
 
-### Resenhas de Livros
-
-#### - 2019
-
+<details closed>
+<summary>2019</summary>
+<br>
 [ROCHA, F. F. O.. Política Externa e Participação Social: Trajetórias e perspectivas. Belo Horizonte: Conjuntura Internacional, Vol. 16 (2), 2019 (Resenha).](http://periodicos.pucminas.br/index.php/conjuntura/article/view/20377/16390){target="_blank"}
+</details>
 
-#### - 2018
 
+<details closed>
+<summary>2018</summary>
+<br>
 [ROCHA, F. F. O.. Resenha 'Aspirational Power: Brazil on the Long Road to Global Influence'. João Pessoa: Revista de Estudos Internacionais (REI), Vol.9 (2), 2018 (Resenha).](http://www.revistadeestudosinternacionais.com/uepb/index.php/rei/article/view/389/pdf){target="_blank"}
+</details>
 
 
-### Apresentações em Eventos Científicos
+### Apresentações em Eventos Científicos:
 
-#### - 2019
-
+<details closed>
+<summary>2019</summary>
+<br>
 [ROCHA, Felipe Ferreira de Oliveira; MEDEIROS, M. A. . A Análise de Política Externa sob o Prisma Bibliométrico (1969-2019). In: 7º Encontro da ABRI, 2019, Belo Horizonte. Anais do 7º Encontro da Associação Brasileira de Relações Internacionais - Atores e Agendas: interconexões, desafios e oportunidades, 2019.](https://www.encontro2019.abri.org.br/site/anais2?AREA=6){target="_blank"}
 
 [ROCHA, Felipe Ferreira de Oliveira. Mensurando Ênfases Temáticas de Presidentes e de Chanceleres Brasileiros (1995 - 2014). In: 7º Encontro da ABRI, 2019, Belo Horizonte. Anais do 7º Encontro da Associação Brasileira de Relações Internacionais - Atores e Agendas: interconexões, desafios e oportunidades, 2019.](https://www.encontro2019.abri.org.br/site/anais2?AREA=13){target="_blank"}
 
-#### - 2018
+</details>
 
-[ROCHA, Felipe Ferreira de Oliveira. O Regionalismo Americano nos Discursos de FHC e de Lula. In: 42º Encontro Anual da Anpocs, 2018, Caxambú. 42º Encontro Anual da Anpocs - GT27: Relações Internacionais da América Latina. Caxambú, 2018. v. 42.](https://www.anpocs.com/index.php/encontros/papers/42-encontro-anual-da-anpocs/gt-31/gt27-16/11346-o-regionalismo-americano-nos-discursos-de-fhc-e-de-lula/file){target="_blank"}
+
+<details closed>
+<summary>2018</summary>
+<br>
+[ROCHA, Felipe Ferreira de Oliveira. O Regionalismo Americano nos Discursos de FHC e de Lula. In: 42º Encontro Anual da Anpocs, 2018, Caxambú. 42º Encontro Anual da Anpocs - GT27: Relações Internacionais da América Latina. Caxambú, 2018. v. 42.](https://www.anpocs.com/index.php/encontros/papers/42-encontro-anual-da-anpocs/gt-31/gt27-16/11346-o-regionalismo-americano-nos-discursos-de-fhc-e-de-lula/file){target="_blank"} </li>
 
   - [Arquivos para replicação](https://github.com/rocha-felipeferreira/conference_american_reg_fhc_lula){target="_blank"}
+</details>
 
 
-#### - 2017
 
+<details closed>
+<summary>2017</summary>
+<br>
 ROCHA, Felipe Ferreira de Oliveira. Analisar a Política Externa Brasileira através do Conceito de Saliência Temática: Por que e Como?. In: IV Congresso Internacional de Pernambuco, 2017, Recife. O lugar dos BRICS nas relações internacionais contemporâneas: dilemas, posicionamentos e perspectivas: Anais do IV Congresso Internacional de Pernambuco.. Recife. p. 69-79.
-
-
-#### - 2016 
-
-[BARROS, A. T. D. L. ; ROCHA, F. F. O. ; SANTOS, K. A. ; SILVA, L. P. ; NASCIMENTO, L. N. . A Liberdade Econômica Explica a Democracia Latino-Americana?. In: 40º Encontro Anual da ANPOCS, 2016, Caxambu. ST09 Democracia e desigualdades, 2016. p. 1-26.](https://www.anpocs.com/index.php/papers-40-encontro/st-10/st09-9/10222-a-liberdade-economica-explica-a-democracia-latinoamericana/file){target="_blank"}
-
+</details>
 
 
 <details closed>
