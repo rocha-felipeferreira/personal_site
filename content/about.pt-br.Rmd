@@ -57,7 +57,7 @@ output:
 </details>
 
 
-<details open>
+<details closed>
 <summary>2016</summary>
 <br>
 BARNABÉ, I. R. ; ROCHA, F. F. O. . O Projeto Café Debate e a Internacionalização do Estado de Sergipe. Revista Interdisciplinar de Pesquisa e Inovação, v. 2, p. 1-8, 2016.
