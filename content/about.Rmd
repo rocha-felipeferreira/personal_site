@@ -36,6 +36,15 @@ editor_options:
 ### Journal Articles:
 
 <details closed>
+<summary>2021</summary>
+<br>
+[Rocha, Felipe Ferreira de Oliveira, & Medeiros, Marcelo de Almeida. (2021). American Regionalism and Brazilian Diplomatic Discourse (1946-2019). Contexto Internacional, 43(1), 33-54. Epub January 15, 2021.https://doi.org/10.1590/s0102-8529.2019430100002](https://doi.org/10.1590/s0102-8529.2019430100002){target="_blank"}
+
+ - [Files for reproducibility](https://doi.org/10.7910/DVN/9WLKRO){target="_blank"}
+
+</details>
+
+<details closed>
 <summary>2018</summary>
 <br>
 [ROCHA, Felipe Ferreira de Oliveira; ALBUQUERQUE, Rodrigo ; MEDEIROS, M. A. . Do Concepts Matter? Latin America and South America in the Discourse of Brazilian Foreign Policymakers. BRAZILIAN POLITICAL SCIENCE REVIEW, v. 12, p. 1-24, 2018.](https://doi.org/10.1590/1981-3821201800030006){target="_blank"}

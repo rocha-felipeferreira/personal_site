@@ -52,20 +52,6 @@
   </url>
   
   <url>
-    <loc>/pt-br/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/about/"
-                />
-  </url>
-  
-  <url>
     <loc>/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
